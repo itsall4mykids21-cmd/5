@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/next.js",
+      "destination": "/next.js"
+    },
+    {
+      "source": "/nextjs-with-supabase",
+      "destination": "/nextjs-with-supabase"
+    },
+    {
+      "source": "/nextjs",
+      "destination": "/nextjs"
+    },
+    {
+      "source": "/next-platform-starter-4a6d9",
+      "destination": "/next-platform-starter-4a6d9"
+    },
+    {
+      "source": "/next-platform-starter",
+      "destination": "/next-platform-starter"
+    }
+  ]
+}
