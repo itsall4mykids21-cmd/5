@@ -1,0 +1,9 @@
+{
+  "routing": {
+    "next.js": "/next.js",
+    "nextjs-with-supabase": "/nextjs-with-supabase",
+    "nextjs": "/nextjs",
+    "next-platform-starter-4a6d9": "/next-platform-starter-4a6d9",
+    "next-platform-starter": "/next-platform-starter"
+  }
+}
